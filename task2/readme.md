@@ -1,4 +1,4 @@
-## Detailed README for AI/Data Analytics Program with MQTT and ThingsBoard
+## Detailed README for Simple Analysis Program with MQTT and ThingsBoard
 
 ### Overview
 This project demonstrates how to read telemetry data from a ThingsBoard MQTT server, process it, and then publish the results to another local MQTT broker. The telemetry data (temperature) is analyzed to generate notifications based on specified conditions.
